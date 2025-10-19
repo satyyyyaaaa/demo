@@ -2,4 +2,4 @@
 first trial
 <br>
 Author- satya
-full name = samal
+full name = samal satyawadi 
